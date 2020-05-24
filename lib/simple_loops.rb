@@ -17,8 +17,8 @@ end
 
 def output_array(array)
 
-array.length.times do 
-  
+  array.length.times do 
+  end   
 end
   
 def return_string_array
