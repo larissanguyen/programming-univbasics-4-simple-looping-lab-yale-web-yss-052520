@@ -16,8 +16,8 @@ def loop_message_n_times(message, n)
 end
 
 def output_array(array)
-  array.length.times do 
-    puts 
+  array.length.times do |index|
+    puts array[index]
   end   
 end
   
