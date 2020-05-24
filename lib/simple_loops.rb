@@ -17,6 +17,7 @@ end
 
 def output_array(array)
   array.length.times do 
+    
   end   
 end
   
