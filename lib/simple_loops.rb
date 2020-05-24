@@ -25,4 +25,5 @@ def return_string_array(array)
   array.length.times do |index|
     array[index] = array[index].to_s
   end 
+  return array
 end
