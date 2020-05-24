@@ -10,6 +10,8 @@ end
 def loop_message_n_times(message, n)
   i = 0 
   while i < n
+    puts message 
+    i += 1
 end
 
 def output_array
